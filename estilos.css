@@ -1,0 +1,50 @@
+h1{
+    font-size: 60px;
+}
+
+/*h3{font-size: 100px;
+}*/
+
+.familiatexto{font-family:"papiro" ;
+font-size: 15px;    
+    font-size: 2em;
+    color:#0A0808;
+    text-align: justify;
+}
+.bodyprincipal{
+    background-color:royalblue;
+}
+.fondoheaderprincipal{
+    background-color: rgb(9, 36, 20);
+}
+.fondohederpagina1{
+    background-color: cyan;
+}
+.imagenfondo{
+    background-image:url(img/medellin.jpg) ;
+    height: 600px;
+    background-attachment: fixed;
+
+}
+.textorojo{
+    background-color: red;
+    
+}
+.anime{
+    font-size: 1.2;
+}
+.gris{
+    background-color: dimgray;
+}
+.centrar{
+    text-align: center;
+
+}
+.textoazul{
+    background-color: seagreen;
+}
+.textofamilia{font-family:Lucida Handwriting;
+    color: steelblue;
+    text-align:Lucida Handwriting;
+
+}
